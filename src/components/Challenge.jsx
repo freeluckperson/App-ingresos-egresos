@@ -13,7 +13,7 @@ const Challenge = () => {
         <div className="bg-gradient-to-b from-Light-slate-blue to-Light-royal-blue h-[356px] pt-8 px-10 text-center rounded-b-3xl md:w-[370px] md:h-full md:rounded-3xl md:pt-16 ">
           <h1 className="mb-6 text-Light-lavender text-[18px] ">Your Result</h1>
           <div className="rounded-full w-[140px] h-[140px] bg-gradient-to-t mx-auto grid place-content-center mb-6 text-[18px] from-Light-slate-blue to-Light-royal-blue">
-            <p className="text-white text-4xl font-bold">90</p>
+            <p className="text-white text-4xl font-bold">76</p>
             <p className="text-Light-lavender ">of 100</p>
           </div>
           <p className="text-white text-[18px] md:mb-6">Great</p>
